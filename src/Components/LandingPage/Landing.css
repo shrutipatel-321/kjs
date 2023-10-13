@@ -23,16 +23,16 @@
     transition: all ease-in-out 0.2s;
 }
 #vid1{
-    transform: translate(5vw, 0) rotateZ(10deg);
+    transform: translate(7vw, 0) rotateZ(10deg);
 }
 #vid2{
-    transform: translate(-5vw, 75%) rotateZ(10deg);
+    transform: translate(-3vw, 75%) rotateZ(10deg);
 }
 #vid3{
-    transform: translate(2vw, 10%) rotateZ(10deg);
+    transform: translate(4vw, 10%) rotateZ(10deg);
 }
 #vid4{
-    transform: translate(-10vw, 90%) rotateZ(10deg);
+    transform: translate(-8vw, 90%) rotateZ(10deg);
 }
 /* #vid1:hover{
     transform: rotateZ(0deg);
