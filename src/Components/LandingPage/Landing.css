@@ -32,7 +32,7 @@
     transform: translate(2vw, 10%) rotateZ(10deg);
 }
 #vid4{
-    transform: translate(-10vw, 100%) rotateZ(10deg);
+    transform: translate(-10vw, 90%) rotateZ(10deg);
 }
 /* #vid1:hover{
     transform: rotateZ(0deg);
