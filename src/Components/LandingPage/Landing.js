@@ -8,7 +8,8 @@ import './Landing.css';
 
 function Landing() {
   return (
-    <div className="landing">
+    <div className="container">
+       <div className="landing">
       <video className="v1" id="vid1"  autoPlay loop muted>
         <source src={video1} type="video/mp4" />
       </video>
@@ -23,6 +24,8 @@ function Landing() {
       </video>
       
     </div>
+    </div>
+   
   );
 }
 
