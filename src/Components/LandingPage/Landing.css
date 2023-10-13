@@ -23,7 +23,7 @@
     transition: all ease-in-out 0.2s;
 }
 #vid1{
-    transform: translate(7vw, 0) rotateZ(10deg);
+    transform: translate(9vw, -5%) rotateZ(10deg);
 }
 #vid2{
     transform: translate(-3vw, 75%) rotateZ(10deg);
@@ -50,4 +50,5 @@
 .footer{
     height: 60vh;
     background-color: white;
+    transform: rotateZ(0deg);
 }
