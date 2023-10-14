@@ -52,4 +52,48 @@
     background-color: whitesmoke;
     transform: rotateZ(0deg);
 }
-;
+
+.strawberry{
+    position: absolute;
+    width: 15vmin;
+    height: 15vmin;
+    z-index: 20;
+    filter: blur(2px);
+}
+.strawberryy{
+    position: absolute;
+    width: 20vmin;
+    height: 20vmin;
+    z-index: 20;
+    /* filter: blur(1px); */
+}
+#s1{
+    transform: translate(80vw,10vh);
+    height: 20vmin;
+}
+#s2{
+    transform: translate(8vw,0);
+}
+#s3{
+    transform: translate(3vw,60vh);
+}
+#s9{
+    transform: translate(87vw,70vh);
+}
+#s7{
+    transform: translate(3vw,100vh);
+    height: 25vmin;
+}
+#s5{
+    transform: translate(80vw,110vh);
+}
+#s6{
+    transform: translate(3vw,150vh);
+}
+#s8{
+    transform: translate(85vw,170vh);
+}
+#s4{
+    transform: translate(40vw,178vh);
+    height: 25vmin;
+}
