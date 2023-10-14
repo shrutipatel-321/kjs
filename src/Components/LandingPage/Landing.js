@@ -22,7 +22,7 @@ function Landing() {
     <img className="strawberry" id="s5" src={img3} alt="" />
     <img className="strawberry" id="s6" src={img4} alt="" />
     <img className="strawberryy" id="s7" src={img2} alt="" />
-    <img className="strawberry" id="s8" src={img3} alt="" />
+    <img className="strawberryy" id="s8" src={img3} alt="" />
     <img className="strawberryy" id="s9" src={img4} alt="" />
     <div className="container">
       <div className="landing">
