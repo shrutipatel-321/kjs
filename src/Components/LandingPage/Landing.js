@@ -15,17 +15,28 @@ function Landing() {
   return (
     <>
     {/* <img className="strawberry" src={img1} alt="" /> */}
-    <img className="strawberry" id="s1" src={img2} alt="" />
-    <img className="strawberryy" id="s2" src={img3} alt="" />
-    <img className="strawberry" id="s3" src={img4} alt="" />
-    <img className="strawberryy" id="s4" src={img2} alt="" />
-    <img className="strawberry" id="s5" src={img3} alt="" />
-    <img className="strawberry" id="s6" src={img4} alt="" />
-    <img className="strawberryy" id="s7" src={img2} alt="" />
-    <img className="strawberryy" id="s8" src={img3} alt="" />
-    <img className="strawberryy" id="s9" src={img4} alt="" />
     <div className="container">
+    
+    <img className="strawberryy" id="s2" src={img3} alt="" />
+    <img className="strawberryy" id="s9" src={img4} alt="" />
+    <img className="strawberryy" id="s4" src={img2} alt="" />
+    <img className="strawberry" id="s6" src={img4} alt="" />
+    <img className="strawberryy" id="s8" src={img3} alt="" />
       <div className="landing">
+      
+      <img className="strawberryy" id="s1" src={img2} alt="" />
+    <img className="strawberry" id="s3" src={img4} alt="" />
+    
+    <img className="strawberry" id="s5" src={img3} alt="" />
+    
+    <img className="strawberryy" id="s7" src={img2} alt="" />
+    <img className="strawberry" id="s10" src={img4} alt="" />
+    <img className="strawberry" id="s11" src={img3} alt="" />
+    <img className="strawberry" id="s12" src={img2} alt="" />
+    <img className="strawberryy" id="s13" src={img3} alt="" />
+    <img className="strawberry" id="s14" src={img4} alt="" />
+    
+    
         <video className="v1" id="vid1" autoPlay loop muted>
           <source src={video1} type="video/mp4" />
         </video>

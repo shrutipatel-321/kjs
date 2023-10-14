@@ -14,7 +14,7 @@
 }
 
 .v1{
-    /* position: relative; */
+    position: relative;
     height: 60vh;
     width: 50%;
     object-fit: cover;
@@ -59,6 +59,7 @@
     height: 15vmin;
     z-index: 20;
     filter: blur(2px);
+    z-index: -1;
 }
 .strawberryy{
     position: absolute;
@@ -68,8 +69,8 @@
     /* filter: blur(1px); */
 }
 #s1{
-    transform: translate(80vw,10vh);
-    height: 20vmin;
+    transform: translate(80vw,20vh);
+    height: 25vmin;
 }
 #s2{
     transform: translate(8vw,0);
@@ -96,4 +97,20 @@
 #s4{
     transform: translate(40vw,178vh);
     height: 25vmin;
+}
+#s10{
+    transform: translate(50vw,5vh);
+}
+#s11{
+    transform: translate(50vw,55vh);
+}
+#s12{
+    transform: translate(50vw,115vh);
+    height: 20vmin;
+}
+#s13{
+    transform: translate(30vw,140vh);
+}
+#s14{
+    transform: translate(10vw,170vh);
 }
