@@ -1,5 +1,10 @@
+
+   
 .footer{
     text-align: center;
+    /* height: 50vh; */
+    background-color: whitesmoke;
+    transform: rotateZ(0deg);
 }
 #footer-h1{
     display: flex;
@@ -12,4 +17,12 @@
     margin: auto;
     text-align: center;
     width: 50%;
+    padding: 4px;
+}
+.error{
+    font-size: 0.8rem;
+    color: red;
+}
+.footer form input{
+    margin-top: 1%;
 }
